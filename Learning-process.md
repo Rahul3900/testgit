@@ -1,16 +1,16 @@
-# 1. What is the Feynman Technique?
+## 1. What is the Feynman Technique?
 
 The Feynman Technique is a learning method where you understand a topic by explaining it in simple language, just like you're teaching it to someone who has no background in it. If you can't explain it clearly, it usually means there's something you still need to learn.
 
 ---
 
-# 2. What was the most interesting story or idea from Barbara Oakley's TED Talk?
+## 2. What was the most interesting story or idea from Barbara Oakley's TED Talk?
 
-The part that stood out to me the most was Barbara Oakley's own journey. She wasn't naturally good at math and actually struggled with it for a long time. But by changing the way she learned, she eventually became an engineer. It shows that success isn't only about talent—using the right learning methods can make a huge difference.
+The part that stood out to me the most was Barbara Oakley's own journey. She wasn't naturally good at math and actually struggled with it for a long time. But by changing the way she learned, she eventually became an engineer. It shows that success isn't only about talent using the right learning methods can make a huge difference.
 
 ---
 
-# 3. What are the active and diffused modes of thinking?
+## 3. What are the active and diffused modes of thinking?
 
 **Active mode** is when you're completely focused on solving a problem, writing code, or learning something new. It requires your full attention.
 
@@ -18,7 +18,7 @@ The part that stood out to me the most was Barbara Oakley's own journey. She was
 
 ---
 
-# 4. What steps should you follow when learning a new topic?
+## 4. What steps should you follow when learning a new topic?
 
 When learning something new, I would:
 
@@ -29,21 +29,19 @@ When learning something new, I would:
 
 ---
 
-# Learning Principles from the Bootcamp
+## Learning Principles from the Bootcamp
 
 Some important lessons I learned are:
 
 - Stay fully focused while studying or coding because attention makes a big difference.
 - Programming is more about thinking logically than just writing code.
-- Focus is a skill that improves with regular practice.
 - The idea from *Deep Work* is valuable because deep concentration leads to better results.
 - Follow the simple rule: **work when it's time to work and relax when it's time to relax.**
 - Keep distractions away by silencing your phone, turning off unnecessary notifications, and blocking distracting websites if needed.
-- Use tools like **Boosted** to understand how your time is spent and improve productivity.
 
 ---
 
-# How I Approach Learning Software Concepts
+## How I Approach Learning Software Concepts
 
 Whenever I learn a new concept, I ask myself questions like:
 
@@ -54,7 +52,7 @@ Whenever I learn a new concept, I ask myself questions like:
 
 ---
 
-# A Few Things I Keep in Mind
+## A Few Things I Keep in Mind
 
 - Deadlines are useful for staying on track, but understanding the concept is more important than rushing through it.
 - I try to stay curious and enjoy the learning process instead of stressing over it.
@@ -64,7 +62,7 @@ Whenever I learn a new concept, I ask myself questions like:
 
 ---
 
-# How Trainees Are Evaluated
+## How Trainees Are Evaluated
 
 Trainees are generally evaluated based on whether they can:
 
@@ -76,7 +74,7 @@ Trainees are generally evaluated based on whether they can:
 
 ---
 
-# 5. What actions can you take to improve your learning?
+## 5. What actions can you take to improve your learning?
 
 To improve my learning, I would:
 
@@ -84,14 +82,11 @@ To improve my learning, I would:
 - Take short breaks instead of studying continuously for long hours so my mind stays fresh.
 - Break large topics into smaller sections and practice them consistently every day.
 - Study in a quiet environment with as few distractions as possible.
-- Keep track of how I spend my time and identify ways to be more productive.
 - Ask questions whenever I'm confused and reinforce my learning by helping others or building small projects.
-
-This approach helps me understand concepts more deeply instead of simply memorizing them.
 
 ---
 
-# References 
+## References 
 
 - Feynman Technique – https://www.youtube.com/watch?v=_f-qkGJBPts
 
